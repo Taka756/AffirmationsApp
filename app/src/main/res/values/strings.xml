@@ -15,14 +15,93 @@
   -->
 <resources>
     <string name="app_name">Affirmations</string>
-    <string name="affirmation1">I am strong.</string>
-    <string name="affirmation2">I believe in myself.</string>
-    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
-    <string name="affirmation5">I have so much to be grateful for.</string>
-    <string name="affirmation6">Good things are always coming into my life.</string>
-    <string name="affirmation7">New opportunities await me at every turn.</string>
-    <string name="affirmation8">I have the courage to follow my heart.</string>
-    <string name="affirmation9">Things will unfold at precisely the right time.</string>
-    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="car_name1">Tesla Model S</string>
+    <string name="car_description1">A fully electric luxury sedan with cutting-edge technology and exceptional range.</string>
+
+    <string name="car_name2">Ford Mustang</string>
+    <string name="car_description2">An iconic American muscle car known for its performance and style.</string>
+
+    <string name="car_name3">Toyota Corolla</string>
+    <string name="car_description3">A reliable and fuel-efficient compact car popular worldwide.</string>
+
+    <string name="car_name4">Chevrolet Camaro</string>
+    <string name="car_description4">A sporty coupe with bold design and powerful performance.</string>
+
+    <string name="car_name5">Honda Civic</string>
+    <string name="car_description5">A versatile compact car offering efficiency, comfort, and technology.</string>
+
+    <string name="car_name6">Porsche 911</string>
+    <string name="car_description6">A legendary sports car with a timeless design and thrilling performance.</string>
+
+    <string name="car_name7">BMW 3 Series</string>
+    <string name="car_description7">A luxury sedan that combines dynamic performance with modern comfort.</string>
+
+    <string name="car_name8">Jeep Wrangler</string>
+    <string name="car_description8">A rugged off-road SUV designed for adventure and durability.</string>
+
+    <string name="car_name9">Audi A4</string>
+    <string name="car_description9">A premium sedan offering advanced technology and refined comfort.</string>
+
+    <string name="car_name10">Mercedes-Benz E-Class</string>
+    <string name="car_description10">A luxury car that blends sophistication with innovative features.</string>
+
+    <string name="car_name11">Lamborghini Aventador</string>
+    <string name="car_description11">A high-performance supercar with a striking design and V12 engine.</string>
+
+    <string name="car_name12">Ferrari F8 Tributo</string>
+    <string name="car_description12">A sleek and powerful sports car with exceptional aerodynamics and speed.</string>
+
+    <string name="car_name13">Nissan GT-R</string>
+    <string name="car_description13">A high-tech supercar known for its speed and advanced all-wheel-drive system.</string>
+
+    <string name="car_name14">Volkswagen Golf</string>
+    <string name="car_description14">A versatile and popular compact car with a focus on comfort and efficiency.</string>
+
+    <string name="car_name15">Kia Sorento</string>
+    <string name="car_description15">A family-friendly SUV with modern features and spacious interiors.</string>
+
+    <string name="car_name16">Mazda MX-5 Miata</string>
+    <string name="car_description16">A lightweight roadster delivering thrilling performance and a fun driving experience.</string>
+
+    <string name="car_name17">Hyundai Tucson</string>
+    <string name="car_description17">A compact SUV offering advanced safety features and a comfortable ride.</string>
+
+    <string name="car_name18">Chevrolet Tahoe</string>
+    <string name="car_description18">A full-size SUV with powerful capabilities and ample seating for the whole family.</string>
+
+    <string name="car_name19">Subaru Outback</string>
+    <string name="car_description19">A rugged crossover designed for outdoor adventures and everyday driving.</string>
+
+    <string name="car_name20">Volvo XC90</string>
+    <string name="car_description20">A luxury SUV combining Scandinavian design with cutting-edge safety features.</string>
+
+    <string name="car_name21">Range Rover Evoque</string>
+    <string name="car_description21">A stylish luxury SUV with off-road capabilities and a refined interior.</string>
+
+    <string name="car_name22">Jaguar F-Type</string>
+    <string name="car_description22">A performance-focused sports car with sleek styling and advanced technology.</string>
+
+    <string name="car_name23">Toyota RAV4</string>
+    <string name="car_description23">A popular compact SUV offering practicality and impressive fuel efficiency.</string>
+
+    <string name="car_name24">Ford F-150</string>
+    <string name="car_description24">A durable full-size pickup truck with impressive towing and hauling capabilities.</string>
+
+    <string name="car_name25">Honda Accord</string>
+    <string name="car_description25">A midsize sedan known for its reliability, comfort, and modern features.</string>
+
+    <string name="car_name26">Tesla Model 3</string>
+    <string name="car_description26">An affordable electric sedan with advanced technology and impressive range.</string>
+
+    <string name="car_name27">Chevrolet Bolt EV</string>
+    <string name="car_description27">A compact electric car offering excellent range and affordability.</string>
+
+    <string name="car_name28">Mitsubishi Outlander</string>
+    <string name="car_description28">A versatile SUV with an available plug-in hybrid option for eco-conscious drivers.</string>
+
+    <string name="car_name29">GMC Sierra 1500</string>
+    <string name="car_description29">A premium pickup truck with powerful engines and advanced features.</string>
+
+    <string name="car_name30">Mini Cooper</string>
+    <string name="car_description30">A fun and iconic compact car with excellent handling and customizable options.</string>
 </resources>

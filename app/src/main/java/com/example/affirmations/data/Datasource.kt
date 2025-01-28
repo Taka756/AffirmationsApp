@@ -24,15 +24,37 @@ import com.example.affirmations.model.Affirmation
 class Datasource() {
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
-            Affirmation(R.string.affirmation1, R.drawable.image1),
-            Affirmation(R.string.affirmation2, R.drawable.image2),
-            Affirmation(R.string.affirmation3, R.drawable.image3),
-            Affirmation(R.string.affirmation4, R.drawable.image4),
-            Affirmation(R.string.affirmation5, R.drawable.image5),
-            Affirmation(R.string.affirmation6, R.drawable.image6),
-            Affirmation(R.string.affirmation7, R.drawable.image7),
-            Affirmation(R.string.affirmation8, R.drawable.image8),
-            Affirmation(R.string.affirmation9, R.drawable.image9),
-            Affirmation(R.string.affirmation10, R.drawable.image10))
+            Affirmation(R.string.car_name1, R.string.car_description1, R.drawable.car_image1),
+            Affirmation(R.string.car_name2, R.string.car_description2, R.drawable.car_image2),
+            Affirmation(R.string.car_name3, R.string.car_description3, R.drawable.car_image3),
+            Affirmation(R.string.car_name4, R.string.car_description4, R.drawable.car_image4),
+            Affirmation(R.string.car_name5, R.string.car_description5, R.drawable.car_image5),
+            Affirmation(R.string.car_name6, R.string.car_description6, R.drawable.car_image6),
+            Affirmation(R.string.car_name7, R.string.car_description7, R.drawable.car_image7),
+            Affirmation(R.string.car_name8, R.string.car_description8, R.drawable.car_image8),
+            Affirmation(R.string.car_name9, R.string.car_description9, R.drawable.car_image9),
+            Affirmation(R.string.car_name10, R.string.car_description10, R.drawable.car_image10),
+            Affirmation(R.string.car_name11, R.string.car_description11, R.drawable.car_image11),
+            Affirmation(R.string.car_name12, R.string.car_description12, R.drawable.car_image12),
+            Affirmation(R.string.car_name13, R.string.car_description13, R.drawable.car_image13),
+            Affirmation(R.string.car_name14, R.string.car_description14, R.drawable.car_image14),
+            Affirmation(R.string.car_name15, R.string.car_description15, R.drawable.car_image15),
+            Affirmation(R.string.car_name16, R.string.car_description16, R.drawable.car_image16),
+            Affirmation(R.string.car_name17, R.string.car_description17, R.drawable.car_image17),
+            Affirmation(R.string.car_name18, R.string.car_description18, R.drawable.car_image18),
+            Affirmation(R.string.car_name19, R.string.car_description19, R.drawable.car_image19),
+            Affirmation(R.string.car_name20, R.string.car_description20, R.drawable.car_image20),
+            Affirmation(R.string.car_name21, R.string.car_description21, R.drawable.car_image21),
+            Affirmation(R.string.car_name22, R.string.car_description22, R.drawable.car_image22),
+            Affirmation(R.string.car_name23, R.string.car_description23, R.drawable.car_image23),
+            Affirmation(R.string.car_name24, R.string.car_description24, R.drawable.car_image24),
+            Affirmation(R.string.car_name25, R.string.car_description25, R.drawable.car_image25),
+            Affirmation(R.string.car_name26, R.string.car_description26, R.drawable.car_image26),
+            Affirmation(R.string.car_name27, R.string.car_description27, R.drawable.car_image27),
+            Affirmation(R.string.car_name28, R.string.car_description28, R.drawable.car_image28),
+            Affirmation(R.string.car_name29, R.string.car_description29, R.drawable.car_image29),
+            Affirmation(R.string.car_name30, R.string.car_description30, R.drawable.car_image30)
+
+        )
     }
 }
